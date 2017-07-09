@@ -38,3 +38,12 @@ testem.log
 #System Files
 .DS_Store
 Thumbs.db
+Буде вилучено .editorconfig
+Буде вилучено .gitignore
+Буде вилучено angular-cli.json
+Буде вилучено e2e/
+Буде вилучено karma.conf.js
+Буде вилучено package.json
+Буде вилучено protractor.conf.js
+Буде вилучено src/
+Буде вилучено tslint.json
